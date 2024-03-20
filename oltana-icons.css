@@ -1,0 +1,201 @@
+@font-face {
+  font-family: "oltana-icons";
+  src: url("oltana-icons.woff?c16tcv") format("woff"), url("oltana-icons.svg?c16tcv#oltana-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^=oltana-ifont-],
+[class*=" oltana-ifont-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "oltana-icons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.oltana-ifont-youtube:before {
+  content: "\e906";
+}
+
+.oltana-ifont-instagram:before {
+  content: "\e905";
+}
+
+.oltana-ifont-x-logo:before {
+  content: "\e904";
+}
+
+.oltana-ifont-twitter:before {
+  content: "\e903";
+}
+
+.oltana-ifont-facebook-t:before {
+  content: "\e901";
+}
+
+.oltana-ifont-arrowthin:before {
+  content: "\ea84";
+}
+
+.oltana-ifont-arrowm:before {
+  content: "\ea7b";
+}
+
+.oltana-ifont-arrowleftm1:before {
+  content: "\ea7a";
+}
+
+.oltana-ifont-arrowtopthin:before {
+  content: "\ea79";
+}
+
+.oltana-ifont-arrowtopm:before {
+  content: "\ea13";
+}
+
+.oltana-ifont-arrowbottomm:before {
+  content: "\ea12";
+}
+
+.oltana-ifont-doublearrowthin:before {
+  content: "\e9ed";
+}
+
+.oltana-ifont-arrowbottomthin:before {
+  content: "\e9ea";
+}
+
+.oltana-ifont-arrowleftm:before {
+  content: "\e9e6";
+}
+
+.oltana-ifont-arrowleftthin:before {
+  content: "\e9b3";
+}
+
+.oltana-ifont-batum:before {
+  content: "\ea94";
+}
+
+.oltana-ifont-searchm:before {
+  content: "\ea93";
+}
+
+.oltana-ifont-searchthin:before {
+  content: "\ea92";
+}
+
+.oltana-ifont-batuthin:before {
+  content: "\ea91";
+}
+
+.oltana-ifont-v2telephone:before {
+  content: "\ea81";
+}
+
+.oltana-ifont-v2copy:before {
+  content: "\ea17";
+}
+
+.oltana-ifont-v2arrowtop:before {
+  content: "\e9ee";
+}
+
+.oltana-ifont-v2arrowleft:before {
+  content: "\e9ec";
+}
+
+.oltana-ifont-v2arrowdouble:before {
+  content: "\e9eb";
+}
+
+.oltana-ifont-v2arrowcircle:before {
+  content: "\e9e9";
+}
+
+.oltana-ifont-v2arrowbottom:before {
+  content: "\e9e8";
+}
+
+.oltana-ifont-v2arrowbcircle:before {
+  content: "\e9e7";
+}
+
+.oltana-ifont-v2arrow:before {
+  content: "\e9e5";
+}
+
+.oltana-ifont-telephone:before {
+  content: "\e994";
+}
+
+.oltana-ifont-copyright:before {
+  content: "\e900";
+}
+
+.oltana-ifont-facebook:before {
+  content: "\e902";
+}
+
+.oltana-ifont-t-blank3:before {
+  content: "\e907";
+}
+
+.oltana-ifont-t-blank4:before {
+  content: "\e908";
+}
+
+.oltana-ifont-t-blank2:before {
+  content: "\e909";
+}
+
+.oltana-ifont-t-blank1:before {
+  content: "\e90a";
+}
+
+.oltana-ifont-icon_base:before {
+  content: "\e90b";
+}
+
+.oltana-ifont-icon_calendar:before {
+  content: "\e90c";
+}
+
+.oltana-ifont-icon_cart:before {
+  content: "\e90d";
+}
+
+.oltana-ifont-icon_download:before {
+  content: "\e913";
+}
+
+.oltana-ifont-icon_linkedin:before {
+  content: "\e914";
+}
+
+.oltana-ifont-icon_mail:before {
+  content: "\e915";
+}
+
+.oltana-ifont-icon_note:before {
+  content: "\e90e";
+}
+
+.oltana-ifont-icon_phone:before {
+  content: "\e90f";
+}
+
+.oltana-ifont-icon_store:before {
+  content: "\e910";
+}
+
+.oltana-ifont-icon_line:before {
+  content: "\e911";
+}
