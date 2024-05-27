@@ -5,8 +5,8 @@
   font-style: normal;
   font-display: block;
 }
-[class^=oltana-ifont-],
-[class*=" oltana-ifont-"] {
+[class^=oltana-icon-],
+[class*=" oltana-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "oltana-icons" !important;
   speak: never;
@@ -20,182 +20,171 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.oltana-ifont-youtube:before {
-  content: "\e906";
+.oltana-icon-linkedin-in:before {
+  content: "\e94a";
 }
-
-.oltana-ifont-instagram:before {
-  content: "\e905";
+.oltana-icon-facebook:before {
+  content: "\e94e";
 }
-
-.oltana-ifont-x-logo:before {
-  content: "\e904";
+.oltana-icon-line:before {
+  content: "\e94f";
 }
-
-.oltana-ifont-twitter:before {
-  content: "\e903";
+.oltana-icon-line1:before {
+  content: "\e951";
 }
-
-.oltana-ifont-facebook-t:before {
-  content: "\e901";
+.oltana-icon-instagram:before {
+  content: "\e952";
 }
-
-.oltana-ifont-arrowthin:before {
-  content: "\ea84";
+.oltana-icon-x:before {
+  content: "\e953";
 }
-
-.oltana-ifont-arrowm:before {
-  content: "\ea7b";
+.oltana-icon-base:before {
+  content: "\e954";
 }
-
-.oltana-ifont-arrowleftm1:before {
-  content: "\ea7a";
+.oltana-icon-arrow_down_light:before {
+  content: "\e96a";
 }
-
-.oltana-ifont-arrowtopthin:before {
-  content: "\ea79";
-}
-
-.oltana-ifont-arrowtopm:before {
-  content: "\ea13";
-}
-
-.oltana-ifont-arrowbottomm:before {
-  content: "\ea12";
-}
-
-.oltana-ifont-doublearrowthin:before {
-  content: "\e9ed";
-}
-
-.oltana-ifont-arrowbottomthin:before {
-  content: "\e9ea";
-}
-
-.oltana-ifont-arrowleftm:before {
-  content: "\e9e6";
-}
-
-.oltana-ifont-arrowleftthin:before {
-  content: "\e9b3";
-}
-
-.oltana-ifont-batum:before {
-  content: "\ea94";
-}
-
-.oltana-ifont-searchm:before {
-  content: "\ea93";
-}
-
-.oltana-ifont-searchthin:before {
-  content: "\ea92";
-}
-
-.oltana-ifont-batuthin:before {
-  content: "\ea91";
-}
-
-.oltana-ifont-v2telephone:before {
-  content: "\ea81";
-}
-
-.oltana-ifont-v2copy:before {
-  content: "\ea17";
-}
-
-.oltana-ifont-v2arrowtop:before {
-  content: "\e9ee";
-}
-
-.oltana-ifont-v2arrowleft:before {
-  content: "\e9ec";
-}
-
-.oltana-ifont-v2arrowdouble:before {
-  content: "\e9eb";
-}
-
-.oltana-ifont-v2arrowcircle:before {
-  content: "\e9e9";
-}
-
-.oltana-ifont-v2arrowbottom:before {
-  content: "\e9e8";
-}
-
-.oltana-ifont-v2arrowbcircle:before {
-  content: "\e9e7";
-}
-
-.oltana-ifont-v2arrow:before {
-  content: "\e9e5";
-}
-
-.oltana-ifont-telephone:before {
+.oltana-icon-arrow_down:before {
   content: "\e994";
 }
-
-.oltana-ifont-copyright:before {
-  content: "\e900";
+.oltana-icon-arrow_down_bold:before {
+  content: "\e989";
 }
-
-.oltana-ifont-facebook:before {
-  content: "\e902";
+.oltana-icon-arrow_left_light:before {
+  content: "\e968";
 }
-
-.oltana-ifont-t-blank3:before {
-  content: "\e907";
+.oltana-icon-arrow_left:before {
+  content: "\e949";
 }
-
-.oltana-ifont-t-blank4:before {
-  content: "\e908";
+.oltana-icon-arrow_left_bold:before {
+  content: "\e957";
 }
-
-.oltana-ifont-t-blank2:before {
-  content: "\e909";
+.oltana-icon-arrow_right_light:before {
+  content: "\e95d";
 }
-
-.oltana-ifont-t-blank1:before {
-  content: "\e90a";
+.oltana-icon-arrow_right:before {
+  content: "\e94d";
 }
-
-.oltana-ifont-icon_base:before {
-  content: "\e90b";
+.oltana-icon-arrow_right_bold:before {
+  content: "\e96f";
 }
-
-.oltana-ifont-icon_calendar:before {
-  content: "\e90c";
+.oltana-icon-arrow_up_light:before {
+  content: "\e95a";
 }
-
-.oltana-ifont-icon_cart:before {
-  content: "\e90d";
+.oltana-icon-arrow_up:before {
+  content: "\e977";
 }
-
-.oltana-ifont-icon_download:before {
-  content: "\e913";
+.oltana-icon-arrow_up_bold:before {
+  content: "\e973";
 }
-
-.oltana-ifont-icon_linkedin:before {
-  content: "\e914";
+.oltana-icon-more_outline:before {
+  content: "\e97e";
 }
-
-.oltana-ifont-icon_mail:before {
-  content: "\e915";
+.oltana-icon-slash_outline:before {
+  content: "\e984";
 }
-
-.oltana-ifont-icon_note:before {
-  content: "\e90e";
+.oltana-icon-circle_outline:before {
+  content: "\e96c";
 }
-
-.oltana-ifont-icon_phone:before {
-  content: "\e90f";
+.oltana-icon-cross_outline:before {
+  content: "\e96e";
 }
-
-.oltana-ifont-icon_store:before {
-  content: "\e910";
+.oltana-icon-copy_outline:before {
+  content: "\e96d";
 }
-
-.oltana-ifont-icon_line:before {
-  content: "\e911";
+.oltana-icon-check_outline:before {
+  content: "\e969";
+}
+.oltana-icon-check_circle_outline:before {
+  content: "\e967";
+}
+.oltana-icon-check_solid:before {
+  content: "\e96b";
+}
+.oltana-icon-target_blank1_outline:before {
+  content: "\e995";
+}
+.oltana-icon-target_blank2_outline:before {
+  content: "\e996";
+}
+.oltana-icon-download_outline:before {
+  content: "\e970";
+}
+.oltana-icon-calendar_outline:before {
+  content: "\e959";
+}
+.oltana-icon-campaign1_outline:before {
+  content: "\e95f";
+}
+.oltana-icon-bag_outline:before {
+  content: "\e960";
+}
+.oltana-icon-callcenter_solid:before {
+  content: "\e961";
+}
+.oltana-icon-campaign2_outline:before {
+  content: "\e962";
+}
+.oltana-icon-campaign2_solid:before {
+  content: "\e963";
+}
+.oltana-icon-cart_outline:before {
+  content: "\e964";
+}
+.oltana-icon-cart_solid:before {
+  content: "\e965";
+}
+.oltana-icon-callcenter_outline:before {
+  content: "\e966";
+}
+.oltana-icon-good_outline:before {
+  content: "\e971";
+}
+.oltana-icon-good_solid:before {
+  content: "\e972";
+}
+.oltana-icon-heart_outline:before {
+  content: "\e974";
+}
+.oltana-icon-heart_solid:before {
+  content: "\e975";
+}
+.oltana-icon-mail_open_outline:before {
+  content: "\e976";
+}
+.oltana-icon-mail_outline:before {
+  content: "\e978";
+}
+.oltana-icon-mail_solid:before {
+  content: "\e979";
+}
+.oltana-icon-map_outline:before {
+  content: "\e97a";
+}
+.oltana-icon-map_solid:before {
+  content: "\e97b";
+}
+.oltana-icon-memo_outline:before {
+  content: "\e97c";
+}
+.oltana-icon-phone_outline:before {
+  content: "\e97f";
+}
+.oltana-icon-phone_solid:before {
+  content: "\e980";
+}
+.oltana-icon-receiver_outline:before {
+  content: "\e982";
+}
+.oltana-icon-receiver_solid:before {
+  content: "\e983";
+}
+.oltana-icon-star_outline:before {
+  content: "\e985";
+}
+.oltana-icon-star_solid:before {
+  content: "\e986";
+}
+.oltana-icon-store_outline:before {
+  content: "\e987";
 }
