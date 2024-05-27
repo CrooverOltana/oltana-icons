@@ -20,6 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 .oltana-icon-linkedin-in:before {
   content: "\e94a";
 }
@@ -82,6 +83,9 @@
 }
 .oltana-icon-slash_outline:before {
   content: "\e984";
+}
+.oltana-icon-circle:before {
+  content: "\e900";
 }
 .oltana-icon-circle_outline:before {
   content: "\e96c";
