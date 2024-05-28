@@ -1,25 +1,20 @@
 @font-face {
-  font-family: 'oltana-icons';
-  src:  url('fonts/oltana-icons.eot?1dcs0p');
-  src:  url('fonts/oltana-icons.eot?1dcs0p#iefix') format('embedded-opentype'),
-    url('fonts/oltana-icons.ttf?1dcs0p') format('truetype'),
-    url('fonts/oltana-icons.woff?1dcs0p') format('woff'),
-    url('fonts/oltana-icons.svg?1dcs0p#oltana-icons') format('svg');
+  font-family: "oltana-icons";
+  src: url("oltana-icons.woff?drg54") format("woff"), url("oltana-icons.svg?c16tcv#oltana-icons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
-[class^="oltana-icon-"], [class*=" oltana-icon-"] {
+[class^=oltana-icon-],
+[class*=" oltana-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'oltana-icons' !important;
+  font-family: "oltana-icons" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
