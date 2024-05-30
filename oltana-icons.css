@@ -20,6 +20,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.oltana-icon-copyright:before {
+  content: "\e902";
+}
 .oltana-icon-youtube:before {
   content: "\e901";
 }
