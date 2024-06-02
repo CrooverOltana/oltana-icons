@@ -2,6 +2,8 @@
     "iconNames": {
         "Angle": "矢印",
         "Common": "汎用",
+        "Medical": "医療",
+        "Profession": "士業",
         "Brands": "ブランド"
     },
     "iconParts": {
