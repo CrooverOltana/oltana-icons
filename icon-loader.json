@@ -1,6 +1,6 @@
 {
     "iconNames": {
-        "Angle": "矢印",
+        "Angle": "記号",
         "Common": "汎用",
         "Medical": "医療",
         "Profession": "士業",
@@ -9,10 +9,6 @@
     "iconParts": {
         "Common": [
             "<i class='oltana-icon-search'></i>",
-            "<i class='oltana-icon-slash_outline'></i>",
-            "<i class='oltana-icon-circle_outline'></i>",
-            "<i class='oltana-icon-circle_solid'></i>",
-            "<i class='oltana-icon-cross_outline'></i>",
             "<i class='oltana-icon-copy_outline'></i>",
             "<i class='oltana-icon-check_outline'></i>",
             "<i class='oltana-icon-check_circle_outline'></i>",
@@ -45,8 +41,7 @@
             "<i class='oltana-icon-receiver_solid'></i>",
             "<i class='oltana-icon-star_outline'></i>",
             "<i class='oltana-icon-star_solid'></i>",
-            "<i class='oltana-icon-store_outline'></i>",
-            "<i class='oltana-icon-copyright'></i>"
+            "<i class='oltana-icon-store_outline'></i>"
         ],
         "Medical": [
             "<i class='oltana-icon-medical71'></i>",
@@ -173,7 +168,11 @@
             "<i class='oltana-icon-arrow_right_bold'></i>",
             "<i class='oltana-icon-arrow_down_bold'></i>",
             "<i class='oltana-icon-arrow_left_bold'></i>",
-            "<i class='oltana-icon-more_outline'></i>"
+            "<i class='oltana-icon-more_outline'></i>",
+            "<i class='oltana-icon-slash_outline'></i>",
+            "<i class='oltana-icon-circle_outline'></i>",
+            "<i class='oltana-icon-circle_solid'></i>",
+            "<i class='oltana-icon-cross_outline'></i>",
         ],
     }
 }
