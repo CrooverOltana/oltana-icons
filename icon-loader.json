@@ -7,21 +7,6 @@
         "Brands": "ブランド"
     },
     "iconParts": {
-        "Angle": [
-            "<i class='oltana-icon-arrow_up_light'></i>",
-            "<i class='oltana-icon-arrow_right_light'></i>",
-            "<i class='oltana-icon-arrow_down_light'></i>",
-            "<i class='oltana-icon-arrow_left_light'></i>",
-            "<i class='oltana-icon-arrow_up'></i>",
-            "<i class='oltana-icon-arrow_right'></i>",
-            "<i class='oltana-icon-arrow_down'></i>",
-            "<i class='oltana-icon-arrow_left'></i>",
-            "<i class='oltana-icon-arrow_up_bold'></i>",
-            "<i class='oltana-icon-arrow_right_bold'></i>",
-            "<i class='oltana-icon-arrow_down_bold'></i>",
-            "<i class='oltana-icon-arrow_left_bold'></i>",
-            "<i class='oltana-icon-more_outline'></i>"
-        ],
         "Common": [
             "<i class='oltana-icon-search'></i>",
             "<i class='oltana-icon-slash_outline'></i>",
@@ -174,6 +159,21 @@
             "<i class='oltana-icon-instagram'></i>",
             "<i class='oltana-icon-x'></i>",
             "<i class='oltana-icon-base'></i>"
-        ]
+        ],
+        "Angle": [
+            "<i class='oltana-icon-arrow_up_light'></i>",
+            "<i class='oltana-icon-arrow_right_light'></i>",
+            "<i class='oltana-icon-arrow_down_light'></i>",
+            "<i class='oltana-icon-arrow_left_light'></i>",
+            "<i class='oltana-icon-arrow_up'></i>",
+            "<i class='oltana-icon-arrow_right'></i>",
+            "<i class='oltana-icon-arrow_down'></i>",
+            "<i class='oltana-icon-arrow_left'></i>",
+            "<i class='oltana-icon-arrow_up_bold'></i>",
+            "<i class='oltana-icon-arrow_right_bold'></i>",
+            "<i class='oltana-icon-arrow_down_bold'></i>",
+            "<i class='oltana-icon-arrow_left_bold'></i>",
+            "<i class='oltana-icon-more_outline'></i>"
+        ],
     }
 }
