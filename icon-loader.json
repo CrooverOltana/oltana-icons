@@ -21,6 +21,7 @@
             "<i class='oltana-icon-more_outline'></i>"
         ],
         "Common": [
+            "<i class='oltana-icon-search'></i>",
             "<i class='oltana-icon-slash_outline'></i>",
             "<i class='oltana-icon-circle_outline'></i>",
             "<i class='oltana-icon-circle_solid'></i>",
