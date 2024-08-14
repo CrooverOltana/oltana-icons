@@ -20,6 +20,336 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.oltana-icon-personal-gym1:before {
+  content: "\ea08";
+}
+.oltana-icon-personal-gym2:before {
+  content: "\ea09";
+}
+.oltana-icon-personal-gym3:before {
+  content: "\ea0a";
+}
+.oltana-icon-personal-gym4:before {
+  content: "\ea0b";
+}
+.oltana-icon-personal-gym5:before {
+  content: "\ea0c";
+}
+.oltana-icon-pet1:before {
+  content: "\ea02";
+}
+.oltana-icon-pet3:before {
+  content: "\ea03";
+}
+.oltana-icon-pet2:before {
+  content: "\ea04";
+}
+.oltana-icon-pet4:before {
+  content: "\ea05";
+}
+.oltana-icon-pet5:before {
+  content: "\ea06";
+}
+.oltana-icon-pet6:before {
+  content: "\ea07";
+}
+.oltana-icon-yoga1:before {
+  content: "\e914";
+}
+.oltana-icon-yoga2:before {
+  content: "\e91b";
+}
+.oltana-icon-yoga3:before {
+  content: "\e934";
+}
+.oltana-icon-yoga4:before {
+  content: "\e936";
+}
+.oltana-icon-yoga5:before {
+  content: "\e945";
+}
+.oltana-icon-pilates1:before {
+  content: "\e98e";
+}
+.oltana-icon-pilates2:before {
+  content: "\e9a6";
+}
+.oltana-icon-pilates3:before {
+  content: "\e9a7";
+}
+.oltana-icon-pilates4:before {
+  content: "\e9a8";
+}
+.oltana-icon-pilates5:before {
+  content: "\e9a9";
+}
+.oltana-icon-pilates6:before {
+  content: "\e9aa";
+}
+.oltana-icon-nail-salon1:before {
+  content: "\e9ab";
+}
+.oltana-icon-nail-salon2:before {
+  content: "\e9ac";
+}
+.oltana-icon-nail-salon3:before {
+  content: "\e9ad";
+}
+.oltana-icon-nail-salon4:before {
+  content: "\e9ae";
+}
+.oltana-icon-nail-salon5:before {
+  content: "\e9af";
+}
+.oltana-icon-manufacturing1:before {
+  content: "\e9b0";
+}
+.oltana-icon-manufacturing3:before {
+  content: "\e9b1";
+}
+.oltana-icon-manufacturing2:before {
+  content: "\e9b2";
+}
+.oltana-icon-manufacturing5:before {
+  content: "\e9b3";
+}
+.oltana-icon-manufacturing4:before {
+  content: "\e9b4";
+}
+.oltana-icon-manufacturing7:before {
+  content: "\e9b5";
+}
+.oltana-icon-manufacturing6:before {
+  content: "\e9b6";
+}
+.oltana-icon-manufacturing8:before {
+  content: "\e9b7";
+}
+.oltana-icon-manufacturing9:before {
+  content: "\e9b8";
+}
+.oltana-icon-manufacturing10:before {
+  content: "\e9b9";
+}
+.oltana-icon-kids1:before {
+  content: "\e9ba";
+}
+.oltana-icon-kids2:before {
+  content: "\e9bb";
+}
+.oltana-icon-kids3:before {
+  content: "\e9bc";
+}
+.oltana-icon-kids4:before {
+  content: "\e9bd";
+}
+.oltana-icon-kids5:before {
+  content: "\e9be";
+}
+.oltana-icon-kids6:before {
+  content: "\e9bf";
+}
+.oltana-icon-kids7:before {
+  content: "\e9c0";
+}
+.oltana-icon-kids8:before {
+  content: "\e9c1";
+}
+.oltana-icon-it1:before {
+  content: "\e9c2";
+}
+.oltana-icon-it2:before {
+  content: "\e9c3";
+}
+.oltana-icon-it3:before {
+  content: "\e9c4";
+}
+.oltana-icon-it5:before {
+  content: "\e9c5";
+}
+.oltana-icon-it6:before {
+  content: "\e9c6";
+}
+.oltana-icon-it9:before {
+  content: "\e9c7";
+}
+.oltana-icon-it4:before {
+  content: "\e9c8";
+}
+.oltana-icon-it10:before {
+  content: "\e9c9";
+}
+.oltana-icon-it11:before {
+  content: "\e9ca";
+}
+.oltana-icon-it8:before {
+  content: "\e9cb";
+}
+.oltana-icon-it7:before {
+  content: "\e9cc";
+}
+.oltana-icon-golf1:before {
+  content: "\e9cd";
+}
+.oltana-icon-golf5:before {
+  content: "\e9ce";
+}
+.oltana-icon-golf2:before {
+  content: "\e9cf";
+}
+.oltana-icon-golf3:before {
+  content: "\e9d0";
+}
+.oltana-icon-golf4:before {
+  content: "\e9d1";
+}
+.oltana-icon-esthetic1:before {
+  content: "\e9d2";
+}
+.oltana-icon-esthetic2:before {
+  content: "\e9d3";
+}
+.oltana-icon-esthetic3:before {
+  content: "\e9d4";
+}
+.oltana-icon-esthetic4:before {
+  content: "\e9d5";
+}
+.oltana-icon-esthetic5:before {
+  content: "\e9d6";
+}
+.oltana-icon-coworking-space1:before {
+  content: "\e9d7";
+}
+.oltana-icon-coworking-space2:before {
+  content: "\e9d8";
+}
+.oltana-icon-coworking-space3:before {
+  content: "\e9d9";
+}
+.oltana-icon-coworking-space4:before {
+  content: "\e9da";
+}
+.oltana-icon-coworking-space5:before {
+  content: "\e9db";
+}
+.oltana-icon-coworking-space6:before {
+  content: "\e9dc";
+}
+.oltana-icon-coworking-space8:before {
+  content: "\e9dd";
+}
+.oltana-icon-coworking-space7:before {
+  content: "\e9de";
+}
+.oltana-icon-coworking-space10:before {
+  content: "\e9df";
+}
+.oltana-icon-coworking-space9:before {
+  content: "\e9e0";
+}
+.oltana-icon-builder1:before {
+  content: "\e9e1";
+}
+.oltana-icon-builder2:before {
+  content: "\e9e2";
+}
+.oltana-icon-builder3:before {
+  content: "\e9e3";
+}
+.oltana-icon-builder4:before {
+  content: "\e9e4";
+}
+.oltana-icon-builder5:before {
+  content: "\e9e5";
+}
+.oltana-icon-builder6:before {
+  content: "\e9e6";
+}
+.oltana-icon-builder7:before {
+  content: "\e9e7";
+}
+.oltana-icon-builder8:before {
+  content: "\e9e8";
+}
+.oltana-icon-builder9:before {
+  content: "\e9e9";
+}
+.oltana-icon-builder10:before {
+  content: "\e9ea";
+}
+.oltana-icon-builder11:before {
+  content: "\e9eb";
+}
+.oltana-icon-builder12:before {
+  content: "\e9ec";
+}
+.oltana-icon-builder13:before {
+  content: "\e9ed";
+}
+.oltana-icon-builder14:before {
+  content: "\e9ee";
+}
+.oltana-icon-builder15:before {
+  content: "\e9ef";
+}
+.oltana-icon-beauty-parlor1:before {
+  content: "\e9f0";
+}
+.oltana-icon-beauty-parlor3:before {
+  content: "\e9f1";
+}
+.oltana-icon-beauty-parlor2:before {
+  content: "\e9f2";
+}
+.oltana-icon-beauty-parlor4:before {
+  content: "\e9f3";
+}
+.oltana-icon-beauty-parlor5:before {
+  content: "\e9f4";
+}
+.oltana-icon-beauty-parlor6:before {
+  content: "\e9f5";
+}
+.oltana-icon-beauty-hair-salon1:before {
+  content: "\e9f6";
+}
+.oltana-icon-beauty-hair-salon2:before {
+  content: "\e9f7";
+}
+.oltana-icon-beauty-hair-salon4:before {
+  content: "\e9f8";
+}
+.oltana-icon-beauty-hair-salon3:before {
+  content: "\e9fa";
+}
+.oltana-icon-beauty-hair-salon6:before {
+  content: "\e9fb";
+}
+.oltana-icon-beauty-hair-salon5:before {
+  content: "\e9fc";
+}
+.oltana-icon-animal-hospital1:before {
+  content: "\e9fd";
+}
+.oltana-icon-animal-hospital2:before {
+  content: "\e9fe";
+}
+.oltana-icon-animal-hospital3:before {
+  content: "\e9ff";
+}
+.oltana-icon-animal-hospital4:before {
+  content: "\ea00";
+}
+.oltana-icon-animal-hospital5:before {
+  content: "\ea01";
+}
+.oltana-icon-pc_solid:before {
+  content: "\e90f";
+}
+.oltana-icon-pc_outline:before {
+  content: "\e907";
+}
 .oltana-icon-medical71:before {
   content: "\e903";
 }
@@ -255,7 +585,7 @@
   content: "\e98d";
 }
 .oltana-icon-profession20:before {
-  content: "\e98e";
+  content: "\e9f9";
 }
 .oltana-icon-profession19:before {
   content: "\e98f";
