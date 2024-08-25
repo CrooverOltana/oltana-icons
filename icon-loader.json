@@ -4,11 +4,11 @@
         "Common": "汎用",
         "Medical": "医療",
         "Profession": "士業",
-        "Business": "ビジネス·オフィス",
-        "Beauty": "美容·エクササイズ",
-        "Life": "家庭·建築·不動産",
-        "Animal": "ペット·動物",
-        "Kids": "子ども·学習",
+        "Business": "ビジネス・オフィス",
+        "Beauty": "美容・エクササイズ",
+        "Life": "住まい·建築・不動産",
+        "Animal": "ペット・動物",
+        "Kids": "子ども・学習・趣味",
         "Brands": "ブランド"
     },
     "iconParts": {
@@ -84,8 +84,6 @@
           "<i class='oltana-icon-it7'></i>",
           "<i class='oltana-icon-it2'></i>",
           "<i class='oltana-icon-it3'></i>",
-          "<i class='oltana-icon-it4'></i>",
-          "<i class='oltana-icon-it6'></i>",
           "<i class='oltana-icon-it8'></i>",
           "<i class='oltana-icon-it9'></i>",
           "<i class='oltana-icon-it10'></i>",
@@ -225,7 +223,6 @@
           "<i class='oltana-icon-pilates3'></i>",
           "<i class='oltana-icon-pilates4'></i>",
           "<i class='oltana-icon-yoga3'></i>",
-          "<i class='oltana-icon-golf1'></i>",
           "<i class='oltana-icon-golf2'></i>",
           "<i class='oltana-icon-golf3'></i>",
           "<i class='oltana-icon-golf4'></i>"
@@ -266,7 +263,10 @@
           "<i class='oltana-icon-kids4'></i>",
           "<i class='oltana-icon-kids5'></i>",
           "<i class='oltana-icon-kids6'></i>",
-          "<i class='oltana-icon-kids8'></i>"
+          "<i class='oltana-icon-kids8'></i>",
+        "<i class='oltana-icon-it4'></i>",
+          "<i class='oltana-icon-it6'></i>",
+        "<i class='oltana-icon-golf1'></i>"
         ],
         "Animal": [
           "<i class='oltana-icon-pet2'></i>",
