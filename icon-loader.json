@@ -25,6 +25,7 @@
             "<i class='oltana-icon-line1'></i>",
             "<i class='oltana-icon-instagram'></i>",
             "<i class='oltana-icon-x'></i>",
+            "<i class='oltana-icon-note'></i>",
             "<i class='oltana-icon-base'></i>"
         ],
         "Common": [
@@ -266,7 +267,9 @@
             "<i class='oltana-icon-beauty-parlor3'></i>",
             "<i class='oltana-icon-beauty-parlor4'></i>",
             "<i class='oltana-icon-beauty-parlor5'></i>",
-            "<i class='oltana-icon-beauty-parlor6'></i>",
+            "<i class='oltana-icon-beauty-parlor6'></i>"
+        ],
+        "Gym": [
             "<i class='oltana-icon-personal-gym1'></i>",
             "<i class='oltana-icon-personal-gym3'></i>",
             "<i class='oltana-icon-personal-gym5'></i>",
