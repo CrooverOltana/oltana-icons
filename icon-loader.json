@@ -337,6 +337,23 @@
             "<i class='oltana-icon-passbook'></i>",
             "<i class='oltana-icon-remains'></i>"
         ],
+        "Restaurant": [
+            "<i class='oltana-icon-knife_and_fork'></i>",
+            "<i class='oltana-icon-coffee_cup'></i>",
+            "<i class='oltana-icon-takeout_coffee'></i>",
+            "<i class='oltana-icon-waiter'></i>",
+            "<i class='oltana-icon-waitress'></i>",
+            "<i class='oltana-icon-takeout'></i>",
+            "<i class='oltana-icon-pets_allowed'></i>",
+            "<i class='oltana-icon-wine'></i>",
+            "<i class='oltana-icon-beer'></i>",
+            "<i class='oltana-icon-ramen'></i>",
+            "<i class='oltana-icon-sushi'></i>",
+            "<i class='oltana-icon-chopsticks_and_bowl'></i>",
+            "<i class='oltana-icon-non_smoking'></i>",
+            "<i class='oltana-icon-smoking_permitted'></i>",
+            "<i class='oltana-icon-parking_lot'></i>"
+        ],
         "Hotel": [
             "<i class='oltana-icon-hot_spring_curtain'></i>",
             "<i class='oltana-icon-room_service'></i>",
