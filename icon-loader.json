@@ -13,7 +13,7 @@
         "Restaurant": "飲食店",
         "Hotel": "宿泊施設・キャンプ",
         "Gym": "ジム・ヨガ",
-        "Online": "専門学校・オンラインスクール",
+        "School": "専門学校・習い事・オンラインスクール",
         "Brands": "ブランド"
     },
     "iconParts": {
@@ -104,14 +104,6 @@
             "<i class='oltana-icon-coworking-space8'></i>",
             "<i class='oltana-icon-coworking-space9'></i>",
             "<i class='oltana-icon-profession1'></i>",
-            "<i class='oltana-icon-it1'></i>",
-            "<i class='oltana-icon-it11'></i>",
-            "<i class='oltana-icon-it7'></i>",
-            "<i class='oltana-icon-it2'></i>",
-            "<i class='oltana-icon-it3'></i>",
-            "<i class='oltana-icon-it8'></i>",
-            "<i class='oltana-icon-it9'></i>",
-            "<i class='oltana-icon-it10'></i>",
             "<i class='oltana-icon-loogin_2'></i>",
             "<i class='oltana-icon-manufacturing9'></i>",
             "<i class='oltana-icon-manufacturing10'></i>",
@@ -132,6 +124,14 @@
             "<i class='oltana-icon-business-office15'></i>"
         ],
         "Technology": [
+            "<i class='oltana-icon-it2'></i>",
+            "<i class='oltana-icon-it1'></i>",
+            "<i class='oltana-icon-it11'></i>",
+            "<i class='oltana-icon-it7'></i>",
+            "<i class='oltana-icon-it3'></i>",
+            "<i class='oltana-icon-it8'></i>",
+            "<i class='oltana-icon-it9'></i>",
+            "<i class='oltana-icon-it10'></i>",
             "<i class='oltana-icon-IT-creative1'></i>",
             "<i class='oltana-icon-IT-creative2'></i>",
             "<i class='oltana-icon-IT-creative3'></i>",
@@ -287,8 +287,7 @@
             "<i class='oltana-icon-yoga3'></i>",
             "<i class='oltana-icon-golf2'></i>",
             "<i class='oltana-icon-golf3'></i>",
-            "<i class='oltana-icon-golf4'></i>",
-            "<i class='oltana-icon-golf1'></i>"
+            "<i class='oltana-icon-golf4'></i>"
         ],
         "Life": [
             "<i class='oltana-icon-builder1'></i>",
@@ -350,7 +349,22 @@
             "<i class='oltana-icon-kids5'></i>",
             "<i class='oltana-icon-kids6'></i>",
             "<i class='oltana-icon-kids8'></i>",
+            "<i class='oltana-icon-kindergarten_bus'></i>",
+            "<i class='oltana-icon-kindergarten_children'></i>",
+            "<i class='oltana-icon-study_desk'></i>",
+            "<i class='oltana-icon-slide'></i>",
+            "<i class='oltana-icon-sandbox_play'></i>",
             "<i class='oltana-icon-it4'></i>"
+        ],
+        "School": [
+            "<i class='oltana-icon-school_instructor'></i>",
+            "<i class='oltana-icon-class'></i>",
+            "<i class='oltana-icon-online'></i>",
+            "<i class='oltana-icon-notebook_pencil'></i>",
+            "<i class='oltana-icon-vocabulary_notebook'></i>",
+            "<i class='oltana-icon-study'></i>",
+            "<i class='oltana-icon-request'></i>",
+            "<i class='oltana-icon-golf1'></i>"
         ],
         "Animal": [
             "<i class='oltana-icon-pet2'></i>",
