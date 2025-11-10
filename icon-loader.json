@@ -2,14 +2,18 @@
     "iconNames": {
         "Angle": "記号",
         "Common": "汎用",
-        "Medical": "医療",
+        "Medical": "医療・クリニック",
         "Profession": "士業",
         "Business": "ビジネス・オフィス",
         "Technology": "IT・テクノロジー",
-        "Beauty": "美容・エクササイズ",
+        "Beauty": "美容・理容・エステ",
         "Life": "住まい·建築・不動産",
         "Animal": "ペット・動物",
-        "Kids": "子ども・学習・趣味",
+        "Kids": "福祉・児童施設",
+        "Restaurant": "飲食店",
+        "Hotel": "宿泊施設・キャンプ",
+        "Gym": "ジム・ヨガ",
+        "Online": "専門学校・オンラインスクール",
         "Brands": "ブランド"
     },
     "iconParts": {
