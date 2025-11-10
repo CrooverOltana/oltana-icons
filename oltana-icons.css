@@ -1,6 +1,6 @@
 @font-face {
   font-family: "oltana-icons";
-  src: url("oltana-icons.woff?drg54") format("woff"), url("oltana-icons.svg?c16tcv#oltana-icons") format("svg");
+  src: url("oltana-icons.woff?drg55") format("woff"), url("oltana-icons.svg?c16tcv#oltana-icons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -21,6 +21,309 @@
 }
 
 
+.oltana-icon-air_purifier:before {
+  content: "\ea3d";
+}
+.oltana-icon-bad_1:before {
+  content: "\ea3e";
+}
+.oltana-icon-bad_2:before {
+  content: "\ea3f";
+}
+.oltana-icon-bathing_assistance:before {
+  content: "\ea40";
+}
+.oltana-icon-bathrobe:before {
+  content: "\ea41";
+}
+.oltana-icon-beer:before {
+  content: "\ea42";
+}
+.oltana-icon-breakfast:before {
+  content: "\ea43";
+}
+.oltana-icon-cardboard:before {
+  content: "\ea44";
+}
+.oltana-icon-care_wheelchair:before {
+  content: "\ea45";
+}
+.oltana-icon-chopsticks_and_bowl:before {
+  content: "\ea46";
+}
+.oltana-icon-class:before {
+  content: "\ea47";
+}
+.oltana-icon-cleaning_crew:before {
+  content: "\ea48";
+}
+.oltana-icon-cloudy:before {
+  content: "\ea49";
+}
+.oltana-icon-coffee_cup:before {
+  content: "\ea4a";
+}
+.oltana-icon-coin_laundry:before {
+  content: "\ea4b";
+}
+.oltana-icon-computer:before {
+  content: "\ea4c";
+}
+.oltana-icon-day_care:before {
+  content: "\ea4d";
+}
+.oltana-icon-deodorizing_spray:before {
+  content: "\ea4e";
+}
+.oltana-icon-dinner:before {
+  content: "\ea4f";
+}
+.oltana-icon-door_plate:before {
+  content: "\ea50";
+}
+.oltana-icon-food_waste:before {
+  content: "\ea51";
+}
+.oltana-icon-free_number_1:before {
+  content: "\ea52";
+}
+.oltana-icon-free_number_2:before {
+  content: "\ea53";
+}
+.oltana-icon-hair_dryer:before {
+  content: "\ea54";
+}
+.oltana-icon-hair_straightener:before {
+  content: "\ea55";
+}
+.oltana-icon-hairbrush:before {
+  content: "\ea56";
+}
+.oltana-icon-hearing_aids:before {
+  content: "\ea57";
+}
+.oltana-icon-help_mark:before {
+  content: "\ea58";
+}
+.oltana-icon-hot_spring_curtain:before {
+  content: "\ea59";
+}
+.oltana-icon-house_cleaning_1:before {
+  content: "\ea5a";
+}
+.oltana-icon-house_cleaning_2:before {
+  content: "\ea5b";
+}
+.oltana-icon-internet:before {
+  content: "\ea5c";
+}
+.oltana-icon-junk_removal:before {
+  content: "\ea5d";
+}
+.oltana-icon-kettle:before {
+  content: "\ea5e";
+}
+.oltana-icon-kindergarten_bus:before {
+  content: "\ea5f";
+}
+.oltana-icon-kindergarten_children:before {
+  content: "\ea60";
+}
+.oltana-icon-knife_and_fork:before {
+  content: "\ea61";
+}
+.oltana-icon-lan_cable:before {
+  content: "\ea62";
+}
+.oltana-icon-link_1:before {
+  content: "\ea63";
+}
+.oltana-icon-link_2:before {
+  content: "\ea64";
+}
+.oltana-icon-loogin_1:before {
+  content: "\ea65";
+}
+.oltana-icon-loogin_2:before {
+  content: "\ea66";
+}
+.oltana-icon-map_1:before {
+  content: "\ea67";
+}
+.oltana-icon-map_2:before {
+  content: "\ea68";
+}
+.oltana-icon-microwave:before {
+  content: "\ea69";
+}
+.oltana-icon-non_smoking:before {
+  content: "\ea6a";
+}
+.oltana-icon-notebook_pencil:before {
+  content: "\ea6b";
+}
+.oltana-icon-nursing_bed:before {
+  content: "\ea6c";
+}
+.oltana-icon-online:before {
+  content: "\ea6d";
+}
+.oltana-icon-pacemaker:before {
+  content: "\ea6e";
+}
+.oltana-icon-parking_lot:before {
+  content: "\ea6f";
+}
+.oltana-icon-passbook:before {
+  content: "\ea70";
+}
+.oltana-icon-password:before {
+  content: "\ea71";
+}
+.oltana-icon-pets_allowed:before {
+  content: "\ea72";
+}
+.oltana-icon-rain:before {
+  content: "\ea73";
+}
+.oltana-icon-ramen:before {
+  content: "\ea74";
+}
+.oltana-icon-razor:before {
+  content: "\ea75";
+}
+.oltana-icon-recycling:before {
+  content: "\ea76";
+}
+.oltana-icon-refrigerator:before {
+  content: "\ea77";
+}
+.oltana-icon-rehabilitation_1:before {
+  content: "\ea78";
+}
+.oltana-icon-rehabilitation_2:before {
+  content: "\ea79";
+}
+.oltana-icon-remains:before {
+  content: "\ea7a";
+}
+.oltana-icon-repair:before {
+  content: "\ea7b";
+}
+.oltana-icon-request:before {
+  content: "\ea7c";
+}
+.oltana-icon-room_service:before {
+  content: "\ea7d";
+}
+.oltana-icon-rotary_phone_1:before {
+  content: "\ea7e";
+}
+.oltana-icon-rotary_phone_2:before {
+  content: "\ea7f";
+}
+.oltana-icon-safe:before {
+  content: "\ea80";
+}
+.oltana-icon-sandbox_play:before {
+  content: "\ea81";
+}
+.oltana-icon-school_instructor:before {
+  content: "\ea82";
+}
+.oltana-icon-shampoo:before {
+  content: "\ea83";
+}
+.oltana-icon-shopping_bag:before {
+  content: "\ea84";
+}
+.oltana-icon-slide:before {
+  content: "\ea85";
+}
+.oltana-icon-slippers:before {
+  content: "\ea86";
+}
+.oltana-icon-smartphone_repair:before {
+  content: "\ea87";
+}
+.oltana-icon-smoking_permitted:before {
+  content: "\ea88";
+}
+.oltana-icon-snow:before {
+  content: "\ea89";
+}
+.oltana-icon-special_cleaning:before {
+  content: "\ea8a";
+}
+.oltana-icon-square_check_1:before {
+  content: "\ea8b";
+}
+.oltana-icon-square_check_2:before {
+  content: "\ea8c";
+}
+.oltana-icon-study_desk:before {
+  content: "\ea8d";
+}
+.oltana-icon-study:before {
+  content: "\ea8e";
+}
+.oltana-icon-sushi:before {
+  content: "\ea8f";
+}
+.oltana-icon-takeout_coffee:before {
+  content: "\ea90";
+}
+.oltana-icon-takeout:before {
+  content: "\ea91";
+}
+.oltana-icon-toothbrush:before {
+  content: "\ea92";
+}
+.oltana-icon-towel:before {
+  content: "\ea93";
+}
+.oltana-icon-trash_can:before {
+  content: "\ea94";
+}
+.oltana-icon-trouser_press:before {
+  content: "\ea95";
+}
+.oltana-icon-tv:before {
+  content: "\ea96";
+}
+.oltana-icon-vocabulary_notebook:before {
+  content: "\ea97";
+}
+.oltana-icon-waiter:before {
+  content: "\ea98";
+}
+.oltana-icon-waitress:before {
+  content: "\ea99";
+}
+.oltana-icon-walking_stick:before {
+  content: "\ea9a";
+}
+.oltana-icon-wallet:before {
+  content: "\ea9b";
+}
+.oltana-icon-warm_water_toilet:before {
+  content: "\ea9c";
+}
+.oltana-icon-welfare_1:before {
+  content: "\ea9d";
+}
+.oltana-icon-welfare_2:before {
+  content: "\ea9e";
+}
+.oltana-icon-wine:before {
+  content: "\ea9f";
+}
+.oltana-icon-yukata:before {
+  content: "\eaa0";
+}
+.oltana-icon-note:before {
+  content: "\eaa1";
+}
 .oltana-icon-animal1:before {
   content: "\ea0d";
 }
