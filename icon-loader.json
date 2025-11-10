@@ -9,7 +9,7 @@
         "Beauty": "美容・理容・エステ",
         "Life": "住まい·建築・不動産",
         "Animal": "ペット・動物",
-        "Kids": "福祉・児童施設",
+        "Facilities": "福祉・児童施設",
         "Restaurant": "飲食店",
         "Hotel": "宿泊施設・キャンプ",
         "Gym": "ジム・ヨガ",
@@ -143,7 +143,8 @@
             "<i class='oltana-icon-IT-creative9'></i>",
             "<i class='oltana-icon-IT-creative10'></i>",
             "<i class='oltana-icon-IT-creative11'></i>",
-            "<i class='oltana-icon-password'></i>"
+            "<i class='oltana-icon-password'></i>",
+            "<i class='oltana-icon-it6'></i>"
         ],
         "Profession": [
             "<i class='oltana-icon-profession27'></i>",
@@ -286,7 +287,8 @@
             "<i class='oltana-icon-yoga3'></i>",
             "<i class='oltana-icon-golf2'></i>",
             "<i class='oltana-icon-golf3'></i>",
-            "<i class='oltana-icon-golf4'></i>"
+            "<i class='oltana-icon-golf4'></i>",
+            "<i class='oltana-icon-golf1'></i>"
         ],
         "Life": [
             "<i class='oltana-icon-builder1'></i>",
@@ -323,7 +325,20 @@
             "<i class='oltana-icon-construction9'></i>",
             "<i class='oltana-icon-construction10'></i>"
         ],
-        "Kids": [
+        "Facilities": [
+            "<i class='oltana-icon-welfare1'></i>",
+            "<i class='oltana-icon-care_wheelchair'></i>",
+            "<i class='oltana-icon-rehabilitation_1'></i>",
+            "<i class='oltana-icon-rehabilitation_2'></i>",
+            "<i class='oltana-icon-nursing_bed'></i>",
+            "<i class='oltana-icon-welfare_1'></i>",
+            "<i class='oltana-icon-welfare_2'></i>",
+            "<i class='oltana-icon-bathing_assistance'></i>",
+            "<i class='oltana-icon-day_care'></i>",
+            "<i class='oltana-icon-hearing_aids'></i>",
+            "<i class='oltana-icon-help_mark'></i>",
+            "<i class='oltana-icon-walking_stick'></i>",
+            "<i class='oltana-icon-pacemaker'></i>",
             "<i class='oltana-icon-medical32'></i>",
             "<i class='oltana-icon-medical31'></i>",
             "<i class='oltana-icon-medical30'></i>",
@@ -335,9 +350,7 @@
             "<i class='oltana-icon-kids5'></i>",
             "<i class='oltana-icon-kids6'></i>",
             "<i class='oltana-icon-kids8'></i>",
-            "<i class='oltana-icon-it4'></i>",
-            "<i class='oltana-icon-it6'></i>",
-            "<i class='oltana-icon-golf1'></i>"
+            "<i class='oltana-icon-it4'></i>"
         ],
         "Animal": [
             "<i class='oltana-icon-pet2'></i>",
